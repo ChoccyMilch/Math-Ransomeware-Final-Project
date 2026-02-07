@@ -1,6 +1,6 @@
 
 # **WARNING: THIS IS FOR EDUCATIONAL PURPOSES ONLY! I AM NOT RESPONSIBLE FOR ANY MISUSE OR DAMAGE CAUSED USING THIS PROGRAM. Even though this is primitive and basic it can still cause unintended damage or data loss if misused!**
-This is a ransomeware I created as a final project for a Ethical Hacking with Python class. DO NOT USE IF YOU DO NOT KNOW HOW THIS WORKS, OR UNDERSTAND THE ASSOCIATED RISKS. ALWAYS RUN USING A VIRTUAL MACHINE AND NEVER USE IT ON DATA YOU DONT WANT TO POTENTIALLY LOSE.
+This is a ransomeware I created as a final project for a Ethical Hacking with Python class at my community college. DO NOT USE IF YOU DO NOT KNOW HOW THIS WORKS, OR UNDERSTAND THE ASSOCIATED RISKS. ALWAYS RUN USING A VIRTUAL MACHINE AND NEVER USE IT ON DATA YOU DONT WANT TO POTENTIALLY LOSE.
 
 There is no server/client code within this project, at some point I may revisit this to clean it up and try to implement server/client communication in order to better my understanding of these concepts. 
 
